@@ -1,1 +1,6 @@
-
+.biker-zone-light-grey{
+    background-color:lightgrey;
+    opacity:0.8;
+    border: 1px solid lightcoral;
+    border-radius: 5px;
+}
